@@ -1,0 +1,27 @@
+[W 2022-07-22 04:35:53.186 LabApp] 'allow_root' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-07-22 04:35:53.186 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-07-22 04:35:53.186 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-07-22 04:35:53.195 LabApp] JupyterLab extension loaded from /home/ec2-user/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2022-07-22 04:35:53.195 LabApp] JupyterLab application directory is /home/ec2-user/anaconda3/share/jupyter/lab
+[I 04:35:53.200 NotebookApp] Serving notebooks from local directory: /home/ec2-user/doit_pandas
+[I 04:35:53.200 NotebookApp] Jupyter Notebook 6.4.8 is running at:
+[I 04:35:53.200 NotebookApp] http://ip-172-31-47-10.ap-northeast-2.compute.internal:8888/?token=d55cb1229f8d0ac0769e872e9be847a58ac5a751c8fc6bce
+[I 04:35:53.200 NotebookApp]  or http://127.0.0.1:8888/?token=d55cb1229f8d0ac0769e872e9be847a58ac5a751c8fc6bce
+[I 04:35:53.200 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 04:35:53.204 NotebookApp] No web browser found: could not locate runnable browser.
+[C 04:35:53.204 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/ec2-user/.local/share/jupyter/runtime/nbserver-3580-open.html
+    Or copy and paste one of these URLs:
+        http://ip-172-31-47-10.ap-northeast-2.compute.internal:8888/?token=d55cb1229f8d0ac0769e872e9be847a58ac5a751c8fc6bce
+     or http://127.0.0.1:8888/?token=d55cb1229f8d0ac0769e872e9be847a58ac5a751c8fc6bce
+[I 04:37:11.731 NotebookApp] 302 GET / (220.76.184.94) 0.550000ms
+[W 04:37:55.239 NotebookApp] Notebook notebook/02_practice.ipynb is not trusted
+[I 04:37:55.945 NotebookApp] Kernel started: f846ecc5-e287-4e87-9b4b-ae498599cca1, name: python3
+[I 04:37:58.948 NotebookApp] Starting buffering for f846ecc5-e287-4e87-9b4b-ae498599cca1:c29642a8b8f5489d8024cf79143341a2
+[I 04:38:09.197 NotebookApp] Creating new notebook in 
+[I 04:38:10.260 NotebookApp] Kernel started: a5807bf9-1986-4872-b58c-35c927636f21, name: python3
+[I 04:38:59.366 NotebookApp] Saving file at /study_test.ipynb
+[I 04:39:03.997 NotebookApp] Saving file at /study_test.ipynb
+[I 04:39:06.339 NotebookApp] Starting buffering for a5807bf9-1986-4872-b58c-35c927636f21:84582ae5ea48484496c2ab60d4953e8f
